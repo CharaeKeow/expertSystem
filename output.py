@@ -1,3 +1,5 @@
+#output.py
+#Store the output folder
 from os import system, name
 
 #clear command for a sleekier interface

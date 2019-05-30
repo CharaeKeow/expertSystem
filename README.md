@@ -25,7 +25,7 @@ think that this code is executable using Python 2.
 ### Mac machine :dollar:
 1. Like Linux distros, Python is also preinstalled in Mac OS. However, it is the archaic :older_man: Python 2.7, which lags behind in some features and can't execute our program. So, consider download the latest version (3.7) [here](https://www.python.org/downloads/)
 2. Download all '*.py*' files. Put them in the same directory.
-3. Then, open terminal and change directory(https://www.macworld.com/article/2042378/master-the-command-line-navigating-files-and-folders.html) to the directory of the downloaded file.
+3. Then, open terminal and [change directory](https://www.macworld.com/article/2042378/master-the-command-line-navigating-files-and-folders.html) to the directory of the downloaded file.
 4. After that, run the '*expertSystem.py*' file by doing the following command:
 > ```python3 expertSystem.py```
 5. If you can't run the file, check if you're at the right directory.

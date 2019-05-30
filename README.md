@@ -29,3 +29,6 @@ think that this code is executable using Python 2.
 4. After that, run the '*expertSystem.py*' file by doing the following command:
 > ```python3 expertSystem.py```
 5. If you can't run the file, check if you're at the right directory.
+
+### Website link
+Hosted with :blue_heart: on [GitHub](https://charaekeow.github.io/AI-showcase/)
